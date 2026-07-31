@@ -11,7 +11,7 @@ on:
         required: true
       labels:
         description: 'comma-separated runner labels (with :docker://...)'
-      required: true
+        required: true
 
 jobs:
   run:
